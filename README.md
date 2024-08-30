@@ -8,7 +8,7 @@ The project folder contains 7 TODOs in 4 different files:
 
 `MainActivity.java` contains TODO 1, 3, 5
 
-'TaskManagerSingleton.java` contains TODO 2
+`TaskManagerSingleton.java` contains TODO 2
 
 `activity_add_task.xml` contains TODO 4
 
